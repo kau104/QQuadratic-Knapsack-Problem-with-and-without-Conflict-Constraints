@@ -2,11 +2,10 @@
 Quantifying the impact of multiple knapsacks on the Quadratic Knapsack Problem  with and without Conflict Constraints
 with and without Conflict Constraints
 
-By Kenneth Ly Aub, (kau104@live.kutztown.edu) ORCID https://orcid.org/0009-0004-3506-1193
-Yun Lua, (lu@kutztown.edu) ORCID https://orcid.org/0000-0003-2296-425X
-Myung Soon Songa, (song@kutztown.edu)
-ORCID https://orcid.org/0000-0001-7988-2242
-Francis J. Vaskoa (vasko@emeriti.kutztown.edu) (corresponding author), ORCID https://orcid.org/0000-0001-8975-0999 Department of Mathematics, Kutztown University, Kutztown, PA, USA
+By Kenneth Ly Au, (kau104@live.kutztown.edu) ORCID https://orcid.org/0009-0004-3506-1193 Department of Computer Science, Kutztown University, Kutztown, PA, USA
+Yun Lua, (lu@kutztown.edu) ORCID https://orcid.org/0000-0003-2296-425X Department of Mathematics, Kutztown University, Kutztown, PA, USA
+Myung Soon Song, (song@kutztown.edu) ORCID https://orcid.org/0000-0001-7988-2242 Department of Mathematics, Kutztown University, Kutztown, PA, USA
+Francis J. Vasko (vasko@emeriti.kutztown.edu) (corresponding author), ORCID https://orcid.org/0000-0001-8975-0999 Department of Mathematics, Kutztown University, Kutztown, PA, USA
 
 Abstract
 The quadratic multiple knapsack problem (QMKP) was introduced in a 2006 paper.
