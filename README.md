@@ -1,4 +1,4 @@
-# QQuadratic-Knapsack-Problem-with-and-without-Conflict-Constraints
+# Quadratic-Knapsack-Problem-with-and-without-Conflict-Constraints
 Quantifying the impact of multiple knapsacks on the Quadratic Knapsack Problem  with and without Conflict Constraints
 with and without Conflict Constraints
 
