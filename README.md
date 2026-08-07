@@ -2,12 +2,12 @@
 Quantifying the impact of multiple knapsacks on the Quadratic Knapsack Problem  with and without Conflict Constraints
 with and without Conflict Constraints
 
-By Kenneth Ly Au, (kau104@live.kutztown.edu) ORCID https://orcid.org/0009-0004-3506-1193 Department of Computer Science, Kutztown University, Kutztown, PA, USA
-Yun Lua, (lu@kutztown.edu) ORCID https://orcid.org/0000-0003-2296-425X Department of Mathematics, Kutztown University, Kutztown, PA, USA
-Myung Soon Song, (song@kutztown.edu) ORCID https://orcid.org/0000-0001-7988-2242 Department of Mathematics, Kutztown University, Kutztown, PA, USA
-Francis J. Vasko (vasko@emeriti.kutztown.edu) (corresponding author), ORCID https://orcid.org/0000-0001-8975-0999 Department of Mathematics, Kutztown University, Kutztown, PA, USA
+By Kenneth Ly Au, (kau104@live.kutztown.edu) ORCID https://orcid.org/0009-0004-3506-1193 Department of Computer Science, Kutztown University, Kutztown, PA, USA \n
+Yun Lua, (lu@kutztown.edu) ORCID https://orcid.org/0000-0003-2296-425X Department of Mathematics, Kutztown University, Kutztown, PA, USA \n
+Myung Soon Song, (song@kutztown.edu) ORCID https://orcid.org/0000-0001-7988-2242 Department of Mathematics, Kutztown University, Kutztown, PA, USA \n
+Francis J. Vasko (vasko@emeriti.kutztown.edu) (corresponding author), ORCID https://orcid.org/0000-0001-8975-0999 Department of Mathematics, Kutztown University, Kutztown, PA, USA \n
 
-Abstract
+Abstract \n
 The quadratic multiple knapsack problem (QMKP) was introduced in a 2006 paper.
 Since then, all papers in the literature have focused on solution methods for QMKPs given a fixed number of knapsacks for each problem instance.
 In this paper, the question addressed is what happens if instead of using one large knapsack, two or even three knapsacks are used such that the total capacity is fixed.
